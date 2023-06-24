@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Tensorflow, and PyTorch**
 
-- 💬 Ask me about **League of Legends**
+- 💬 Ask me about **My startup!**
 
 - ⚡ Fun fact **I have used Kali Linux for Network Penetration Testing and Social Engineering Testing since I can remember! (I am 19 years old now)**
 
