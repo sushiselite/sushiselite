@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **data science projects and a startup**
 
-- 🌱 I’m currently learning **how to automate data cleaning and preprocessing algorithms**
+- 🌱 I’m currently learning **more about stocks and how to automate data cleaning and preprocessing algorithms**
 
 - 👯 I’m looking to collaborate on **UX and Risk Modelling**
 
