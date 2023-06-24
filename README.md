@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me: Advay Gupta</h1>
 <h3 align="center">Aspiring Data Scientist and Entrepreneur</h3>
 
-- 🔭 I’m currently working on **Data Science Projects and a Startup**
+- 🔭 I’m currently working on **data science projects and a startup**
 
 - 🌱 I’m currently learning **how to automate data cleaning and preprocessing algorithms**
 
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Tensorflow, and PyTorch**
 
-- 💬 Ask me about **My startup!**
+- 💬 Ask me about **my startup!**
 
-- ⚡ Fun fact **I have used Kali Linux for Network Penetration Testing and Social Engineering Testing since I can remember! (I am 19 years old now)**
+- ⚡ Fun fact **I have used Kali Linux for network penetration testing and social engineering testing since I can remember! (I am 19 years old now)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
