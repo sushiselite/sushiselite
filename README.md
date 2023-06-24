@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me: Advay Gupta</h1>
+<h1 align="center">💫 About Me: Advay</h1>
 <h3 align="center">Aspiring Data Scientist and Entrepreneur</h3>
 
 - 🔭 I’m currently working on **data science projects and a startup**
