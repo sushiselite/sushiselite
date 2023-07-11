@@ -24,4 +24,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/whyisadvay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="whyisadvay" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushiselite&show_icons=true&theme=synthwave&locale=en" alt="sushiselite" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushiselite&show_icons=true&theme=synthwave&locale=en" alt="change1231231" /></p>
