@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **data science projects and a startup**
 
-- 🌱 I’m currently learning **more about stocks and how to automate data cleaning and preprocessing algorithms**
+- 🌱 I’m currently learning **more about stocks, options and how to automate data cleaning and preprocessing algorithms**
 
-- 👯 I’m looking to collaborate on **UX and Risk Modelling**
+- 👯 I’m looking to collaborate on **Risk Modelling**
 
 - 🤝 I’m looking for help with **Tensorflow, and PyTorch**
 
-- 💬 Ask me about **my startup!**
+- 💬 Ask me about **my startup and investment portfolio!**
 
 - ⚡ Fun fact **I have used Kali Linux for network penetration testing and social engineering testing since I can remember! (I am 19 years old now)**
 
