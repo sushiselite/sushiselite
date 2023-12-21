@@ -1,17 +1,17 @@
 <h1 align="center">💫 About Me: Advay</h1>
-<h3 align="center">Aspiring Data Scientist and Entrepreneur</h3>
+<h3 align="center">Machine Learning and Financial Market fanatic</h3>
 
-- 🔭 I’m currently working on **data science projects and a startup**
+- 🔭 I’m currently working on **LLM tooling and my personal trading algorithm. Ask me about it!**
 
 - 🌱 I’m currently learning **more about stocks, options and how to automate data cleaning and preprocessing algorithms**
 
-- 👯 I’m looking to collaborate on **Risk Modelling**
+- 👯 I’m looking to collaborate on **Risk modelling and developing LLMs**
 
-- 🤝 I’m looking for help with **Tensorflow, and PyTorch**
+- 🤝 I’m looking for help with **getting a mentor!**
 
 - 💬 Ask me about **my startup and investment portfolio!**
 
-- ⚡ Fun fact **I have used Kali Linux for network penetration testing and social engineering testing since I can remember! (I am 19 years old now)**
+- ⚡ Fun fact **I have used Kali Linux for network penetration testing and social engineering testing since I can remember! I have also worked with a gdrv.sys vulnerability in the past to create undetectable injectors in the past**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
