@@ -1,13 +1,13 @@
 <h1 align="center">💫 About Me: Advay</h1>
 <h3 align="center">Machine Learning and Financial Market fanatic</h3>
 
-- 🔭 I’m currently working on **LLM tooling and my personal trading algorithm. Ask me about it!**
+- 🔭 I’m currently working on **My startup. Ask me about it!**
 
 - 🌱 I’m currently learning **more about stocks, options and how to automate data cleaning and preprocessing algorithms**
 
-- 👯 I’m looking to collaborate on **Risk modelling and developing LLMs**
+- 👯 I’m looking to collaborate on **Model evaluation frameworks**
 
-- 🤝 I’m looking for help with **getting a mentor!**
+- 🤝 I’m looking for help with **Mentorship!**
 
 - 💬 Ask me about **my startup and investment portfolio!**
 
